@@ -1,0 +1,71 @@
+1. Two trains of length 125 meters and 115 meters are running on parallel tracks. When they run in the same direction the faster train crosses the slower train in 30 seconds and when they run in opposite direction, they cross each other in 10 seconds. What is the speed of each train?
+
+ANS A) 18,6
+
+2. Two trains of length 140 meters and 166 meters are moving towards each other on parallel tracks at a speed of 50 km/hr and 60 km/hr respectively. In what time the trains will cross each other from the moment they meet?
+
+Ans D) 10 seconds
+
+3. Two trains running in opposite direction cross a man standing on the platform in 36 seconds and 26 seconds respectively. The trains cross each other in 30 seconds. What is the ratio of their speeds?
+
+Ans A) 4/6
+
+4.  A train of length 240 meters crosses a pole in 12 seconds. In what time it will cross a platform of length 400 meters?
+
+Ans D) 33 Second
+
+5. A train moving at 108 km/hr crosses a platform in 30 seconds. Then it crosses a man running at 12 km/hr in the same direction of train in 9 seconds. What is the length of train and platform?
+
+Ans C) 240 & 660
+
+6. Two trains are moving towards each other with speeds 40 km/hr and 45 km/hr from different stations P and Q. When they meet the second train from station Q has covered 20 km more distance than the first train which starts from station P. What is the distance between the two stations?
+
+Ans C) 340 km
+
+7. Time is taken by two trains running in opposite directions to cross a man standing on the platform in 28 seconds and 18 seconds respectively. It took 26 seconds for the trains to cross each other. What is the ratio of their speeds?
+
+Ans D) 4:1
+
+
+8. Two, trains, one from Howrah to Patna and the other from Patna to Howrah, start simultaneously. After they meet, the trains reach their destinations after 9 hours and 16 hours respectively. The ratio of their speeds is:
+
+Ans A) 2:3
+
+9. A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?
+
+Ans D) 79.2 km/hr
+
+10. Two trains of equal length , running in opposite directions , pass a pole in 18 and 12 seconds. The trains will cross each other in 
+
+Ans A) 14.4 sec  
+
+11. A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?
+
+Ans A) 230 m
+
+12. Two stations P and Q are 110 km apart on a straight track. One train starts from P at 7 a.m. and travels towards Q at 20 kmph. Another train starts from Q at 8 a.m. and travels towards P at a speed of 25 kmph. At what time will they meet?
+
+Ans B) 10:00
+
+13. A train covers a distance between station A and station B in 45 min. If the speed of the train is reduced by 5 km/hr, then the same distance is covered in 48 min. what is the distance between the stations A and B?
+
+Ans C) 60 
+
+14. A train travels the distance between stations P and Q at a speed of 126 km/h, while in the opposite direction it comes back at 90 km/h. Another train travels the same distance at the average speed of the first train. The time taken by the second train to travel 525 km is
+
+Ans A) 5 hours
+
+15. A train without stoppage travels with an average speed of 72 km/h and with stop page, it travels with an average speed of 60 km/h. For how many minutes does the train stop on an average per hour?
+
+Ans C) 10  
+
+
+
+
+
+
+
+
+
+
+
